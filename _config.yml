@@ -1,6 +1,7 @@
 # Site settings
 title: hklee blog
 email: lulu.hklee002@gmail.com
+baseurl: "/lulu-hklee"
 
 github_username: hklee002
 
